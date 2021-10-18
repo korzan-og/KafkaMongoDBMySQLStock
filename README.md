@@ -3,7 +3,7 @@ This repository is used for the demo for the Confluent Data in Motion - MongoDB 
 
 After cloning the repository
 
-`sh build.sh`
+`sh build-images.sh`
 
 this will build a MySQL image and two other images that generate the ficticious stock data.
 
